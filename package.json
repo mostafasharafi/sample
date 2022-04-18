@@ -1,0 +1,19 @@
+{
+  "name": "@mshdev/my-test-package",
+  "version": "1.0.0",
+  "description": "this package is for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafasharafi/sample.git"
+  },
+  "author": "Mostafa Sharafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostafasharafi/sample/issues"
+  },
+  "homepage": "https://github.com/mostafasharafi/sample#readme"
+}

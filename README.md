@@ -1,0 +1,2 @@
+Reviewing package contents for sensitive or unnecessary information
+Publishing sensitive information to the registry can harm your users, compromise your development infrastructure, be expensive to fix, and put you at risk of legal
